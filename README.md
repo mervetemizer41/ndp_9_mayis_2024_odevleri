@@ -13,5 +13,5 @@ Main haricinde bir tam sayı dizi alan metodun içinde dizideki en küçük elem
 ### Görev 4:
 String'in palindrome olup olmadığını kontrol eden metot yazın. Main içinde, kullanıcıdan kelime isteyerek metodu kullanarak palindrome test edin.
 
-### Görev 4:
+### Görev 5:
 Kullanıcının verdiği sınır değerin altındaki Fibonacci dizisi elemanlarını bir dizi olarak döndüren metodu yazın. 
