@@ -1,7 +1,9 @@
 # ndp_9_mayis_2024_odevleri
 
-Mayis 9, 2024 dersi görevleri. 
+Mayis 9, 2024 dersi görevleri.
+
 18 Mayıs’ta ilan edildi.
+
 Son teslim: Mayis 26, 2024, Pazar, 23.55.
 
 ### Görev 1:
