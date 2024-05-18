@@ -14,4 +14,7 @@ Main haricinde bir tam sayı dizi alan metodun içinde dizideki en küçük elem
 String'in palindrome olup olmadığını kontrol eden metot yazın. Main içinde, kullanıcıdan kelime isteyerek metodu kullanarak palindrome test edin.
 
 ### Görev 5:
-Kullanıcının verdiği sınır değerin altındaki Fibonacci dizisi elemanlarını bir dizi olarak döndüren metodu yazın. List, ArrayList kullanılabilir.
+
+Fibonacci dizisinde kullanıcının belirleyeceği bir indisteki değeri döndüren metodu yazın. main metodu içinde çağırıp sonucu ekrana yazdırın.
+
+**Önemli not: Destek alarak yapsanız da kendi değişken isimlerinizi kullanınız, kod yazıp çalıştırdığınızı ifade etmesi açısından bu önemli.**
