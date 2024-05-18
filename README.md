@@ -4,7 +4,7 @@ Mayis 9, 2024 dersi görevleri.
 
 18 Mayıs’ta ilan edildi.
 
-Son teslim: Mayis 26, 2024, Pazar, 23.55.
+Son teslim: Mayıs 30, 2024, Perşembe, 23.55.
 
 ### Görev 1:
 Main haricinde bir metodun içinde toplama işlemi yaptırın, main metodundan bu metodu çağırın.
