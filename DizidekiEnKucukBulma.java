@@ -1,9 +1,10 @@
-package com.mt.arel.mayis_9;
+//package com.mt.arel.mayis_9;
 
+import java.util.*;
 
 public class DizidekiEnKucukBulma{
 
-	public int enKucukBul(int dizi[]){
+	public static int enKucukBul(int dizi[]){
 		int enKucuk = Integer.MAX_VALUE;		
 		for(int eleman : dizi){
 			if(eleman < enKucuk){
@@ -17,11 +18,11 @@ public class DizidekiEnKucukBulma{
 		System.out.println("En küçük elemanı bulunacak dizi kaç elemanlı?");		
 		Scanner sc = new Scanner(System.in);		
 		int elemanSayisi = sc.nextInt();
-		int[] tamsayiDizi = new int[elemanSayisi]();
+		int[] tamsayiDizi = new int[elemanSayisi];
 		for(int i = 0; i < elemanSayisi; i++){
 			tamsayiDizi[i] = sc.nextInt();
 		}
-		int enKucukEleman = enKucukBul();
+		int enKucukEleman = enKucukBul(tamsayiDizi);
 		System.out.println("Dizinin en küçük elemanı:" + enKucukEleman);
 
 	}
